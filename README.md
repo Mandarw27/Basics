@@ -1,95 +1,88 @@
-# Exp8
-
 ```javascript
-//Mandar Wankhede
-//23070123083
-//EntcB1
-//program 1
+// Mandar Wankhede
+// 23070123083
+// Entc B1
+//Experiment 1-Downloading and Installing VS Code, (Hello World and Calculator program)
+
 #include <iostream>
 using namespace std;
-int main() 
+int main()
 {
-    int r,c,i,j;
-    cout<<"enter number of rows";
-    cin>>r;
-    cout<<"Enter number of coloumns";
-    cin>>c;
-    int a[r][c];
-    for(i=0;i<r;i++)
-    {
-        for(j=0;j<c;j++)
-        {
-            cout<<"Enter element ("<<i<<","<<j<<")";
-            cin>>a[i][j];
-        }
-            
-    }
-    for(i=0;i<r;i++)
-    {
-        for(j=0;j<r;j++)
-        {
-            cout<<"  "<<a[i][j];
-        }
-        cout<<endl;
-    }
+string a;
+
+    
+    cout<<"Enter your name  ";
+    getline(cin,a);
+    cout<<"Hello "<<a;
     return 0;
-}
-//Mandar Wankhede
-//Program2
-
-#include <iostream>
+} 
+```
+<img width="339" alt="Screenshot 2024-08-23 at 10 14 39" src="https://github.com/user-attachments/assets/2014bc0a-8783-4483-8099-6a16a78275a8">
+```javascript
+#include<iostream>
 using namespace std;
-int main() {
-   int r,c,i,j,x,z;
-    cout<<"enter number of rows of m1";
-    cin>>r;
-    cout<<"Enter number of coloumns of m1";
+int main(){
+    
+    int a,b,c,d;
+    cout<<"Calculator:1.Addition,2.subtraction,3.multiplication,4.division";
+    cout<<"chose the operation you want to carry out";
     cin>>c;
-    cout<<"enter number of rows of m2";
-    cin>>x;
-    cout<<"enter number of rows of m2";
-    cin>>z;
-    int a[r][c];
-    for(i=0;i<r;i++)
-    {
-        for(j=0;j<c;j++)
+    switch(c){
+        case 1:
         {
-            cout<<"Enter element a("<<i<<","<<j<<")";
-            cin>>a[i][j];
+         cout<<"Enter the first number:";
+         cin>>a;
+         cout<<"enter the second number:";
+         cin>>b;
+         d=a+b;
+         cout<<d<<" is the sub of a and b";
+         break;
         }
-    }
-        
-    int b[x][z];
-    for(i=0;i<r;i++)
-    {
-        for(j=0;j<c;j++)
+        case 2:
         {
-            cout<<"Enter element b("<<i<<","<<j<<")";
-            cin>>b[i][j];
+         cout<<"Enter the first number:";
+         cin>>a;
+         cout<<"enter the second number:";
+         cin>>b;
+         d=a-b;
+         cout<<d<<" is the subtraction of a and b";
+         break;
         }
-    }
-    int d[r][c];
-    for(i=0;i<r;i++)
-    {
-        for(j=0;j<c;j++)
+        case 3:
         {
-             d[i][j]=a[i][j]+b[i][j];
+         cout<<"Enter the first number:";
+         cin>>a;
+         cout<<"enter the second number:";
+         cin>>b;
+         d=a*b;
+         cout<<d<<" is the product of a and b";
+         break;
         }
-    }
-    cout<<"The addition of the 2 matrices is"<<endl;
-      for(i=0;i<r;i++)
-    {
-        for(j=0;j<c;j++)
+        case 4:
         {
-            cout<<" "<<d[i][j];
+         cout<<"Enter the first number:";
+         cin>>a;
+         cout<<"enter the second number:";
+         cin>>b;
+         d=a/b;
+         if(b==0)
+        {
+            cout<<"Invalid";
         }
-        cout<<endl;
-    }
-        
+         else
+         {
+         cout<<d<<" is the quotient";
+         }
+        }
+     }
 
-  
-}
+    
 
 ```
-![image](https://github.com/user-attachments/assets/e9119e4a-76b0-4e9a-a59d-023093a6c7ca)
+}<img width="749" alt="Screenshot 2024-08-23 at 10 17 45" src="https://github.com/user-attachments/assets/a7de35e4-75ed-4d20-a8a0-cb31de6b3e74">
 
+<img width="764" alt="Screenshot 2024-08-23 at 10 19 11" src="https://github.com/user-attachments/assets/91411c35-d15b-4852-8345-448b1ae682b3">
+
+<img width="764" alt="Screenshot 2024-08-23 at 10 19 52" src="https://github.com/user-attachments/assets/dcda07cc-4310-4e5c-a6d5-f918544a00ce">
+
+<img width="764" alt="Screenshot 2024-08-23 at 10 25 16" src="https://github.com/user-attachments/assets/d55d1583-014c-483b-847f-d987491f0b67">
