@@ -18,6 +18,7 @@ string a;
 } 
 ```
 <img width="339" alt="Screenshot 2024-08-23 at 10 14 39" src="https://github.com/user-attachments/assets/2014bc0a-8783-4483-8099-6a16a78275a8">
+
 ```javascript
 #include<iostream>
 using namespace std;
