@@ -1,3 +1,22 @@
+# AIM:
+To learn about VS code and getting input from user and displaying it.
+
+# Software Used
+VS Code
+
+# Problem Statement
+1.) Write a program to print simple 'Hello world' message.
+
+2.) Write a program to get the input from user and displaying it.
+
+3.) Write a program to create a basic calculator.
+
+# Theory
+To print a message or output we use 'cout' .
+
+The namespace is used to decrease or limit the scope of any variable or function.
+
+'endl' is used to move the cursor to the new line.
 ```javascript
 // Mandar Wankhede
 // 23070123083
