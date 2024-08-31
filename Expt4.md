@@ -1,5 +1,8 @@
+
 # AIM:
 To study and implement use of bitwise operators
+# software used
+VS CODE
 
 # Bitwise Operators
 Bitwise Operators are the operators that are used to perform operations on the bit level on the integers. While performing this operation integers are considered as sequences of binary digits. In C++, we have various types of Bitwise Operators.
@@ -17,6 +20,8 @@ Bitwise NOT (~) The Bitwise NOT operation is performed on a single number. It ch
 Left Shift (<<) This operator shifts the bits of Integer to left side by specific number (As mentioned) . This left shift operation is equivalent to multiplying the integer by 2 power number of positions shifted. The symbol which is used to represent Left Shift Operator is <<.
 
 Right Shift (>>) This operator shifts the bits of Integer to right side by specific number (As mentioned) . This right shift operation is equivalent to dividing the integer by 2 power number of positions shifted. The symbol which is used to represent Left Shift Operator is >>.
+
+# Codes:
 
 
 ```javascript
