@@ -133,23 +133,29 @@ switch(a)
 {
     case 1:
     cout<<"Monday";
+    break;
     case 2:
     cout<<"tuesday";
+    break;
     case 3:
     cout<<"Wednesday";
+    break;
     case 4:
     cout<<"Thursday";
+    break;
     case 5:
     cout<<"Friday";
+    break;
     case 6:
     cout<<"Saturday";
+    break;
     case 7:
     cout<<"Sunday";
-}
-
+    break;
 }
 ```
-<img width="327" alt="Screenshot 2024-08-31 at 17 36 27" src="https://github.com/user-attachments/assets/fba913a3-703e-4a7b-aeac-646fcfce6fdd">
+
+<img width="348" alt="Screenshot 2024-08-31 at 17 40 25" src="https://github.com/user-attachments/assets/a5d83367-697b-44a5-8d88-ecb5fc3f9db1">
 
 ```javascript
 #include<iostream>
