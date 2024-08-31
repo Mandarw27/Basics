@@ -106,3 +106,8 @@ int main(){
 <img width="764" alt="Screenshot 2024-08-23 at 10 19 52" src="https://github.com/user-attachments/assets/dcda07cc-4310-4e5c-a6d5-f918544a00ce">
 
 <img width="764" alt="Screenshot 2024-08-23 at 10 25 16" src="https://github.com/user-attachments/assets/d55d1583-014c-483b-847f-d987491f0b67">
+
+# Conclusion:
+We learnt to do masic C++ programming
+
+
