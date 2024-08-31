@@ -35,5 +35,5 @@ staticExample();
 staticExample();
 return 0;
 }
-'''
+```
 <img width="238" alt="Screenshot 2024-08-23 at 10 38 13" src="https://github.com/user-attachments/assets/113e8c7d-287b-45da-8fb8-35cd7ff26c14">
