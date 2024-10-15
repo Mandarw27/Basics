@@ -44,7 +44,7 @@ int main(){
 }
 ~~~
 //output:
-![image](https://github.com/user-attachments/assets/6be9641f-da4a-4ad0-83a2-f1d8eef99d11)
+<img width="220" alt="Screenshot 2024-10-15 at 12 10 18 PM" src="https://github.com/user-attachments/assets/bf8bef95-b352-4408-ad6b-b81fa93da62b">
 
 
 ~~~//PARAMETERIZED CONSTRUCTOR
@@ -66,7 +66,7 @@ int main() {
 }
 ~~~
 //output:
-![image](https://github.com/user-attachments/assets/83ae29f5-042c-47a2-b3e8-af899daede89)
+<img width="211" alt="Screenshot 2024-10-15 at 12 12 03 PM" src="https://github.com/user-attachments/assets/22ffae2e-dcc6-4c81-9e99-8aa2cf500266">
 
 
 ~~~//COPY CONSTRUCTOR
@@ -78,12 +78,12 @@ class MyClass{
     public:
     MyClass(int val){
         value = val;
-        cout << "Virat Kohli won the wc "<<value<<endl;
+        cout << "Build "<<value<<endl;
 
     }
     MyClass(const MyClass &obj){
         value = obj.value;
-        cout<<" MS Dhoni<<Virat Kohli "<<value<<endl;
+        cout<<" Create Blog "<<value<<endl;
     }
 };
 int main(){
@@ -93,7 +93,9 @@ int main(){
     }
 
 ~~~
-// output: ![image](https://github.com/user-attachments/assets/dc25d777-1120-43fb-84f6-b482b161dbec)
+
+// output: 
+<img width="216" alt="Screenshot 2024-10-15 at 12 14 21 PM" src="https://github.com/user-attachments/assets/88c75cc7-919f-41f7-b243-ce370809de01">
 
 
 
@@ -124,7 +126,7 @@ int main()
     }
 ~~~
 //output:
-![image](https://github.com/user-attachments/assets/98b9af6f-216a-49f5-bf20-8cf1c930613e)
+<img width="220" alt="Screenshot 2024-10-15 at 12 15 10 PM" src="https://github.com/user-attachments/assets/d28d4f10-2db7-4226-9492-1182edec984a">
 
 ~~~//AREA OF RECTANGLE
 #include<iostream>
@@ -185,7 +187,7 @@ class MyClass{
     }
 ~~~
 //output:
-![image](https://github.com/user-attachments/assets/f2738aa8-2d92-4542-8382-5f736f2f9062)
+<img width="226" alt="Screenshot 2024-10-15 at 12 15 51 PM" src="https://github.com/user-attachments/assets/f7615099-5c72-4627-9144-85441744f766">
 
 # Conclusion:
 In this experiment we learnt to define constructor, prameterized constructor, copy constructor, default arguments and deconsturctor
