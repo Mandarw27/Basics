@@ -164,8 +164,7 @@ int main(){
     return 0;
     }
 ~~~
-  //output:
-  ![image](https://github.com/user-attachments/assets/a546ef4f-554a-42ec-978d-8228f8bd4067)
+  //output:<img width="228" alt="Screenshot 2024-10-15 at 12 17 05 PM" src="https://github.com/user-attachments/assets/6f745aa0-b7bf-4cac-925d-b9cfcf75ce50">
 
 
 ~~~//DECONSTURCTOR
