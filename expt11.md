@@ -53,15 +53,15 @@ int main()
 
 
 ~~~//CLASS BY FUNCTION ex of student:
-  #include<iostream>
+    #include<iostream>
 using namespace std;
 class Student{
     public:
 
-    string name = "Prafful";
-    string surname = "Kulkarni";
+    string name = "Mandar";
+    string surname = "Wankhede";
     string division = "B";
-    int year = 2004;
+    int year = 2005;
     
 
     void displayInfo(){
@@ -81,7 +81,9 @@ cout <<"surname: "<< surname<<endl;
 ~~~
 
     output:
- ![image](https://github.com/user-attachments/assets/cec9ce48-888e-476e-91c7-513f69d95e67)
+    
+<img width="318" alt="Screenshot 2024-10-15 at 12 03 17 PM" src="https://github.com/user-attachments/assets/a94e24c5-6728-46d9-ba75-81f14b6ca0f1">
+
 
 
 
