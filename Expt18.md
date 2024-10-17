@@ -1,5 +1,3 @@
-# Miscellaneous
-This repository contains experiments 13 which is related to miscellaneous stuff in C++.
 
 # Stack Implementation
 # EXPERIMENT 18:
