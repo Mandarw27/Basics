@@ -1,5 +1,3 @@
-# Miscellaneous
-This repository contains experiments 14 which are related to other types of inheritance in C++.
 
 # Inheritance
 # EXPERIMENT 14:
