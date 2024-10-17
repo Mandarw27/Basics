@@ -1,5 +1,3 @@
-# Miscellaneous
-This repository contains experiments 13 which is related to Exception Handling in C++.
 
 # Exception Handling
 # EXPERIMENT 13:
