@@ -1,5 +1,4 @@
-# Miscellaneous
-This repository contains experiments 15 which is related to recursion in C++.
+
 
 # Recursion
 # EXPERIMENT 15:
