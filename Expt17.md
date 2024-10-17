@@ -1,5 +1,4 @@
-# Miscellaneous
-This repository contains experiments 13 which is related to miscellaneous stuff in C++.
+
 
 # Linked Lists
 # EXPERIMENT 17:
